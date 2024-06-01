@@ -7,4 +7,4 @@ const deleteByIndex = (arr,index)=>{
 }
 let data=[1,2,3,4,5,6,7,8];
 let index = 3;
- console.log(deleteByIndex(data,index))
+ console.log(deleteByIndex(data,index)) // 1,2,3,5,6,7,8
